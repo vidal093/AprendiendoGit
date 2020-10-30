@@ -8,6 +8,19 @@ body
     padding: 0;
 }
 
+footer{
+    background-color: #DDD;
+    font-size: 25px;
+    height: 100px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#footer{
+    color: rgb(29, 27, 27);
+}
+
 #cabecera
 {
     background: #33A;
