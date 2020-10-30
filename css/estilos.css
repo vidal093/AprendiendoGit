@@ -42,3 +42,18 @@ body
 {
     padding: 1em;
 }
+
+.nav{
+    background-color: #DDD;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+}
+
+.nav ul li{
+    font-size: 20px;
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+}
+
